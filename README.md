@@ -32,3 +32,4 @@ Before using GeoSniffer, ensure you have the following:
 ## Note
 - GeoSniffer is intended for educational and research purposes only.
 - Ensure compliance with all applicable laws and regulations regarding network monitoring and data privacy.
+![Screenshot 2024-04-07 183605](https://github.com/CodeCraftersgcuf/GeoSniffer--Google-Location-Packet-Tracer/assets/145552963/d950f4bd-7ede-4a9a-b07b-acfff6a2a52d)
